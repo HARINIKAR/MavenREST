@@ -10,6 +10,7 @@ public class Program {
 	        list.add(10);
 	        
 	        System.out.print(list.size());
+	        ////
 	        list.remove(new Integer(10));
 	        System.out.print(list.size());
 	}
